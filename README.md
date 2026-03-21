@@ -98,7 +98,7 @@ Andhra Loyola College (2019–2022) | CGPA: 7.2
 ## 📫 Connect With Me
 
 📧 Email: vamsikumarcheruvu1@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/vamsikumar123  
+🔗 LinkedIn: https://www.linkedin.com/in/vamsikumar-data-analyst-ai/  
 
 ---
 
