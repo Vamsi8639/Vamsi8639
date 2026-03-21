@@ -1,21 +1,105 @@
-- 👋 Hi, I’m @Vamsi8639
-👋 Working as a Data Associate with 1–2 years of experience at Relay Human Cloud, focusing on reporting, dashboards, and data-driven insights
+# Hi, I'm Vamsi Kumar Cheruvu 👋
 
-👀 Interested in Data Analytics, Business Intelligence, and Data Visualization
+📊 Data Analyst | Power BI | SQL | Business Intelligence  
+📍 Ahmedabad, India  
 
-📊 Working with Power BI, SQL, Excel, Python (Pandas & NumPy), and DAX to build data-driven solutions
+---
 
-🌱 Currently learning Business Analysis, Data Modeling, and Dashboard Design for real-world decision-making
+## 🚀 About Me
+Data Analyst with 1.5+ years of experience building end-to-end BI solutions using Power BI, SQL, and DAX.  
 
-🔍 Exploring sample datasets, dashboards, automation workflows, and real estate/market analysis case studies
+✔️ Reduced manual effort by 40% through automation  
+✔️ Improved data accuracy by 20%  
+✔️ Delivered dashboards driving 30% YoY revenue growth  
 
-🧩 Looking to collaborate on data analytics projects, dashboard competitions, and open-source reporting initiatives
+I combine **business understanding (MBA)** with **data analytics skills** to deliver actionable insights.
 
-📫 Reach me at: vamsikumarcheruvu1@gmail.com
+---
 
-😄 Pronouns: Vamsi
+## 💼 Professional Experience
 
-<!---
-Vamsi8639/Vamsi8639 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🏢 Data Associate – Relay Human Cloud India Pvt. Ltd.
+📅 Nov 2024 – Present | Ahmedabad  
+
+- Built financial dashboards tracking revenue, lease status & profitability  
+- Improved occupancy revenue by **30% YoY**  
+- Reduced manual reconciliation effort by **40%**  
+- Cleaned & transformed 10,000+ rows of data using SQL & Excel  
+- Designed dashboards reducing revenue loss by **15%**  
+- Implemented **Row-Level Security (RLS)** for data governance  
+- Developed KPI frameworks for portfolio growth & lease performance  
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analytics & BI
+- Power BI (Desktop & Service)
+- DAX, Power Query (M Language)
+- Dashboard Development & Data Visualization
+
+### 🗄️ Databases & Querying
+- SQL (Joins, Subqueries, Aggregations)
+- SQL Server, MySQL
+
+### 🔄 Data Engineering
+- ETL / ELT Pipelines  
+- Data Cleaning & Transformation  
+- Data Validation  
+
+### 🧠 Data Modeling
+- Star Schema & Snowflake Schema  
+- Relationship Management  
+- Time Intelligence  
+
+### 🐍 Programming
+- Python (Intermediate)
+
+### 📈 Tools
+- MS Excel (Pivot Tables, VLOOKUP, Power Query)
+- MS Dynamics 365, CRM Systems, SharePoint  
+
+---
+
+## 📊 Key Achievements
+
+🏆 Dream Team Award – Q4 2025  
+🏆 Spotlight Award – Q3 2025  
+
+- Recognized for high-impact dashboards and reporting efficiency improvements  
+- Automated reporting workflows improving efficiency by 40%  
+
+---
+
+## 📚 Education
+
+🎓 MBA – International Business  
+Parul University (2022–2024) | CGPA: 7.4  
+
+🎓 B.Sc. Computer Science  
+Andhra Loyola College (2019–2022) | CGPA: 7.2  
+
+---
+
+## 📜 Certifications
+
+- Power BI & SQL – Frontlines Media EdTech  
+- Data & Business Analyst – Digital Lync  
+
+---
+
+## 📈 Projects 
+
+- Management Insights
+- US Sales Summary
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: vamsikumarcheruvu1@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/vamsikumar123  
+
+---
+
+⭐ *“Turning data into actionable business insights.”*
