@@ -90,8 +90,11 @@ Andhra Loyola College (2019–2022) | CGPA: 7.2
 
 ## 📈 Projects 
 
-- Management Insights
+- Inventory Management Dashboard
+- Built an interactive Power BI dashboard to analyze inventory performance, track stock levels, and evaluate vendor contribution. The dashboard helps businesses optimize stock management and reduce operational costs.
+
 - US Sales Summary
+- US Sales Summary Dashboard built in Power BI to analyze sales performance across regions, channels, and warehouses with actionable business insights.
 
 ---
 
