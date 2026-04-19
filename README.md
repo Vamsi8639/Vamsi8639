@@ -1,7 +1,7 @@
 # Hi, I'm Vamsi Kumar Cheruvu 👋
 
 📊 Data Analyst | Power BI | SQL | Business Intelligence  
-📍 Vijayawada, India  
+📍 Vijayawada, India
 
 ---
 
